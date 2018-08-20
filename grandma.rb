@@ -3,7 +3,8 @@ def speak_to_grandma(phrase)
   
   all_caps = phrase.upcase
   
-  puts "phrase => #{phrase}"
+  puts ">>>>>phrase => #{phrase}"
+  puts ">>>>>all_caps => #{all_caps}"
   
   # Whatever you say to grandma, she should respond with
   # HUH?! SPEAK UP, SONNY!
